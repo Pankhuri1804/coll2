@@ -1,0 +1,5 @@
+---
+# tasks file for bonjour
+- name : Debug output
+  debug :
+    msg : "Hola!!"
